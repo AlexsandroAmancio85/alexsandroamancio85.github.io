@@ -10,12 +10,12 @@ html, body{
 body{
     font-family: 'Raleway', sans-serif;
     color: white;
-    background: rgb(54,77,204);
-    background: linear-gradient(176deg, rgba(54,77,204,1) 0%, rgba(24,37,111,1) 100%); 
+    background: rgb(46,121,116);
+    background: linear-gradient(176deg, rgba(46,121,116,1) 0%, rgba(24,37,111,1) 100%); 
 }
 
 .avatar{
-    width: 80px;
+    width: 100px;
     border-radius: 50px;
     border: 3px solid white;
     box-shadow: 0 0 20px white;
